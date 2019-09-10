@@ -1,5 +1,7 @@
 # learn | MONGO QUERIES
 
+This project is an exercise for learning MongoDB Queries. Use the file `data/companies.json` as a reference.
+
 ### 1. All the companies that it's name match 'Babelgum'. Retrieve only their `name` field.
 
 ```
